@@ -4,7 +4,7 @@ Each person from the group has contributed as shown below.
 Jakob Bjerre Eriksen:
 
 
-Keyla Jaylin Barcenas:
+Keyla Jaylin Barcenas: Completed Part 1 and added Outputs folder.
 
 
 Keval Darshan Amin:
