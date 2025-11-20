@@ -1,6 +1,7 @@
 Each person from the group has written their use of AI below.
 
 Jakob Bjerre Eriksen:
+Used ChatGPT 5.1 to research how the tqdm package works (for part 2).
 
 Keyla Jaylin Barcenas:
 
