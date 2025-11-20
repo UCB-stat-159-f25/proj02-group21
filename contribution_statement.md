@@ -2,7 +2,8 @@
 Each person from the group has contributed as shown below.
 
 Jakob Bjerre Eriksen:
-Completed Part 2.
+Completed Part 2 and 3.
+Removed excess text (from problem descriptions) in part 1.
 
 
 Keyla Jaylin Barcenas:
