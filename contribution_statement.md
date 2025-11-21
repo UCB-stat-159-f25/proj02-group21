@@ -5,6 +5,7 @@ Jakob Bjerre Eriksen:
 Completed Parts 2, 3, and 4.
 Removed excess text (from problem descriptions) in part 1.
 Added README.md.
+Deployed MyST page and GitHub Pages.
 
 
 Keyla Jaylin Barcenas:
