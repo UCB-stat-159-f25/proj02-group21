@@ -2,7 +2,9 @@
 Each person from the group has contributed as shown below.
 
 Jakob Bjerre Eriksen:
-Completed Parts 2, 3, and 4.
+Completed Part 2.
+Completed Part 3.
+Completed Part 4 (only the part with how word frequencies for specific words change over time).
 Removed excess text (from problem descriptions) in part 1.
 Added README.md.
 Deployed MyST page and GitHub Pages.
@@ -13,7 +15,7 @@ Completed Part 1 and added Outputs folder.
 
 
 Keval Darshan Amin:
-Added classifier part to part 4.
+Added classifier section to Part 4.
 
 
 Noa Adriana Gonzalez:
